@@ -1,0 +1,8 @@
+{
+  "name": "Remix Divina Gula Francês - Cardápio Digital \u0026 Experiência Gastronômica clone",
+  "description": "Cardápio digital oficial do Restaurante Divina Gula Francês. Comida brasileira autêntica, moquecas, frutos do mar, carnes na brasa, drinks especiais e promoções na Praia do Francês - AL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
